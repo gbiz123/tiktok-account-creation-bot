@@ -19,6 +19,6 @@ When you export, each account comes with the login cookies and proxy it was crea
 Hyperaccs is thoroughly documented, and all use cases are clearly described. You can find a detailed user guide on [our website](https://www.hyperbots.space/documentation?ref=gbizgithub).
 
 ### Contact
-Telegram: @toughdata
-Email: info@toughdata.net
-Our site: https://www.hyperbots.space?ref=github
+- Telegram: @toughdata
+- Email: info@toughdata.net
+- Our site: https://www.hyperbots.space?ref=gbizgithub
